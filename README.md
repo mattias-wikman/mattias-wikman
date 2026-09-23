@@ -1,29 +1,29 @@
 # Mattias Wikman
 
-Design, systems, and the code that brings them to life.
+Making product experiences feel simple & human.
 
-I'm building Pure Research & Design and a personal portfolio, exploring how a shared design system can support distinct websites that evolve together.
+I’m a designer and leader working across AI, product and systems to build and ship intuitive products. Based in Los Angeles, I move between strategy, design, prototyping, and code—staying close to the work from the first sketch to launch.
 
-## Selected projects
+[Wikman.co](https://wikman.co) · [Pure Research & Design](https://purerxd.com) · [LinkedIn](https://www.linkedin.com/in/mattiaswikman)
 
-### Pure Research & Design
+## Selected work
 
-A portfolio and system site for Pure Research & Design. Pages are composed from reusable, typed sections, with a shared case-study renderer, responsive layouts, and motion.
+### [Wikman.co](https://wikman.co) — Live
 
-Built with Next.js, React, TypeScript, Tailwind CSS, and Framer Motion.
+My personal site, bringing together my experience, approach, and perspective on design and leadership. Designed, built, and shipped with responsive typography, subtle motion, and a focus on the words.
 
-[Visit Pure](https://purerxd.com)
+### [Pure Research & Design](https://purerxd.com) — Live, evolving
 
-**Source code:** Private.
+The site for my design practice, with selected work across product, brand, and systems. A place to share the work and keep exploring how it is presented and experienced.
 
-### Personal portfolio — in progress
+Both sites run on a shared design system I’m building, with reusable components and interactions that let each site keep its own identity.
 
-A separate personal site built on the same shared component system as Pure. Each site owns its pages, content, and identity, while improvements to the underlying system can benefit both.
+## How I work
 
-Built as two Next.js apps in a pnpm workspace, with shared components and configuration.
+Sketch, prototype, build, test, and ship. Sharing work early helps me question assumptions and refine the experience through use. AI is part of my daily toolbox, alongside experience, judgment, and hands-on craft.
 
-**Status:** In development. **Source code:** Private.
+Working with Figma, React, Next.js, TypeScript, Tailwind CSS, GitHub, and Vercel, with AI tools including Cursor, Claude, and Codex.
 
-## How I share my work
+## What you’ll find here
 
-I share project context and live experiences here. Source repositories remain private; my contribution graph includes private activity when contribution visibility is enabled.
+Selected projects, live links, and work as it develops. Most of my source repositories are private; my contribution graph includes private activity without exposing the projects or their code.
