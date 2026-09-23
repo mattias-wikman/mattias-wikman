@@ -26,4 +26,4 @@ Working with Figma, React, Next.js, TypeScript, Tailwind CSS, GitHub, and Vercel
 
 ## What you’ll find here
 
-Selected projects, live links, and work as it develops. Most of my source repositories are private; my contribution graph includes private activity without exposing the projects or their code.
+Selected projects, live links, and a record of what I’m building and shipping.
