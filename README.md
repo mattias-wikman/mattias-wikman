@@ -22,7 +22,7 @@ Both sites run on a shared design system I’m building, with reusable component
 
 Sketch, prototype, build, test, and ship. Sharing work early helps me question assumptions and refine the experience through use. AI is part of my daily toolbox, alongside experience, judgment, and hands-on craft.
 
-Working with Figma, React, Next.js, TypeScript, Tailwind CSS, GitHub, and Vercel, with AI tools including Cursor, Claude, and Codex.
+My current favorite stack for building and shipping is React, Next.js, TypeScript, and Tailwind CSS, with GitHub and Vercel. For design and exploration, I work with Figma and AI tools including Cursor, Claude, and Codex.
 
 ## What you’ll find here
 
